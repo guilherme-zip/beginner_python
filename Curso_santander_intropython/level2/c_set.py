@@ -2,6 +2,7 @@
 Conjunto é uma estrutura de dados mutáveis e não ordenados que permite armazenar coleção de documentos únicos ,são definidos por { } ou criados com a função set()
 """
 frutas ={"apple","pineple","banana","green apple"}
+
 frutas.add("pera") 
 print(",".join(frutas)) #Saída {"apple","pineple","banana","green apple","pera"}
 #",".join -->Faz com que o código retorne sem as chaves e áspas 
