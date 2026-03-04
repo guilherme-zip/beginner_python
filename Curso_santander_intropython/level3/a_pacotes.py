@@ -31,5 +31,3 @@ except ValueError as erro:
     exit()
 
 print("O resultadado de sua operação é:",func(n1,n2))
-
-
